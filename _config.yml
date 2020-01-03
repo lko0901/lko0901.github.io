@@ -109,9 +109,9 @@ analytics:
 author:
   name             : "Kiuk Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Java Backend Developer."
+  bio              : "바다 산책러, 고양이 집사, 개발자"
   location         : "Korea"
-  email            :
+  email            : lko09001@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
