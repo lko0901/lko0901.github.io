@@ -1,0 +1,22 @@
+kiuklee:
+  name             : "Kiuk Lee"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "바다 산책러, 고양이 집사, 개발자"
+  location         : "Korea"
+  email            : lko09001@gmail.com
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/lko0901"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lko0901"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"

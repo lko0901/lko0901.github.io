@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "kiuk's today"
+title                    : "오늘의 일기"
 title_separator          : "-"
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Kiuk Lee"
@@ -106,31 +106,7 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Kiuk Lee"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "바다 산책러, 고양이 집사, 개발자"
-  location         : "Korea"
-  email            : lko09001@gmail.com
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:lko0901@gmail.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/lko0901"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lko0901"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+author: kiuklee
 
 # Site Footer
 footer:
@@ -140,10 +116,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/lko0901"
+      # url: "https://facebook.com/lko0901"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/lko0901"
+      # url: "https://github.com/lko0901"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
