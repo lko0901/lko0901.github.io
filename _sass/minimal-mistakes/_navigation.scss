@@ -177,16 +177,16 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: #000;
+  background: $black;
 
   a {
     display: block;
     margin: 0 1rem;
-    color: $base07;
+    color: $white;
     text-decoration: none;
 
     &:hover {
-      color: $base05;
+      color: $light-gray;
     }
 
     &.site-logo {
